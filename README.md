@@ -36,6 +36,5 @@ install gentoo &amp; gentoo alternative to everywhere
 
 没时间写了，晚一些回来接着写。
 
-
-
-
+## 参考文档
+* https://archives.gentoo.org/gentoo-dev-announce/message/772326d735c8c7c469beffc0a9bb0b97
